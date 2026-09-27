@@ -1,33 +1,33 @@
-# NN, Topic
+# NN, topic
 
-**Source:** 18.01SC Unit [#], Part [#], Session [#]
-**Date:** YYYY-MM-DD
-**Time spent:** about Xh
+**source:** 18.01sc unit [#], part [#], session [#]
+**date:** YYYY-MM-DD
+**time spent:** about Xh
 
-## Definition
+## definition
 
-In my own words, from memory. Precise enough that I could be caught being wrong about it.
+in my own words, from memory. precise enough that i could get caught being wrong about it.
 
-## The picture
+## the picture
 
-A sketch. What's actually going on geometrically?
+a sketch. whats actually going on geometrically?
 
-## Why it holds
+## why it holds
 
-The argument, not the result. If I can't reproduce this, I don't have the topic.
+the argument, not the result. if i cant reproduce this then i dont have the topic.
 
-## Worked example
+## worked example
 
-One, start to finish, including the bit I had to think about.
+one, start to finish, including the bit i had to think about.
 
-## Non-example
+## non example
 
-A near miss that breaks the claim. Where does this stop being true? Most of the gotchas I've had live here.
+a near miss that breaks the claim. where does this stop being true? most of the gotchas ive had live here.
 
-## Links to
+## links to
 
-Prerequisite note, next note, and the `bridges.md` row if this generalizes to 18.02.
+the note before it, the note after it, and the `bridges.md` row if this generalizes to 18.02.
 
-## Still shaky
+## still shaky
 
-What I couldn't do without looking. Feed these into `../error-log.md`.
+what i couldnt do without looking. feed these into `../error-log.md`.

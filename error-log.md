@@ -1,54 +1,54 @@
-# Error log
+# error log
 
-Every first-attempt mistake, with a cause. This is the point of the whole repo, it's what makes progress visible instead of just claimed.
+every first attempt mistake and what caused it. this is the point of the whole repo, its what makes progress actually visible instead of just claimed.
 
-**Rules**
+## rules
 
-- Log it even when the final answer came out right. Right answer wrong method is the most expensive kind of mistake and the easiest to hide.
-- One line for the cause, not a description of the error. "Used the chain rule twice and never simplified", not "made an algebra mistake".
-- Re-read this weekly and mark things fixed. A repeat means the cause was never actually addressed.
+- log it even when the final answer came out right. right answer wrong method is the most expensive kind of mistake and the easiest to hide.
+- one line for the cause, not a description of the error. "used the chain rule twice and never simplified", not "made an algebra mistake".
+- re-read this weekly and mark things fixed. a repeat means the cause was never actually dealt with.
 
 ---
 
-## Unit 1. Differentiation
+## unit 1. differentiation
 
-| # | Date | Source | What went wrong | Status |
+| # | date | source | what went wrong | status |
 |---|---|---|---|---|
 | 1 | | | | open |
 
-## Unit 2. Applications of Differentiation
+## unit 2. applications of differentiation
 
-| # | Date | Source | What went wrong | Status |
+| # | date | source | what went wrong | status |
 |---|---|---|---|---|
 | | | | | open |
 
-## Unit 3. The Definite Integral and its Applications
+## unit 3. the definite integral and its applications
 
-| # | Date | Source | What went wrong | Status |
+| # | date | source | what went wrong | status |
 |---|---|---|---|---|
 | | | | | open |
 
-## Unit 4. Techniques of Integration
+## unit 4. techniques of integration
 
-| # | Date | Source | What went wrong | Status |
+| # | date | source | what went wrong | status |
 |---|---|---|---|---|
 | | | | | open |
 
-## Unit 5. Exploring the Infinite
+## unit 5. exploring the infinite
 
-| # | Date | Source | What went wrong | Status |
+| # | date | source | what went wrong | status |
 |---|---|---|---|---|
 | | | | | open |
 
 ---
 
-## Patterns
+## patterns
 
-Written at the end of each unit. My own specific weaknesses in my own words, not generic "algebra is hard".
+written at the end of each unit. my own specific weaknesses, in my own words, not generic "algebra is hard".
 
-<!-- A good entry looks like this:
-### 1. Differentiating before substituting
-I compute dy/dx with y still in terms of x, then plug in, and the algebra
-explodes. Substitute first. Cost me about 40 minutes on Exam 1, fixed two
-weeks later once I started writing "substitute early" down before touching
+<!-- what a good one looks like:
+### 1. differentiating before substituting
+i compute dy/dx with y still in terms of x, then plug in, and the algebra
+explodes. substitute first. cost me about 40 minutes on exam 1, fixed two
+weeks later once i started writing "substitute early" down before touching
 any algebra. -->

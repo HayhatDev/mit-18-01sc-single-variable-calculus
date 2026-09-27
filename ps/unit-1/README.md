@@ -1,35 +1,35 @@
-# Unit 1 problem sets
+# unit 1 problem sets
 
-Notebook pages plus a few lines of reflection. No transcriptions.
+notebook pages plus a few lines about them. no transcriptions.
 
-## For each set
+## for each set
 
-1. Photograph every notebook page for that set, in order.
-2. Name them `ps1-01.jpg`, `ps1-02.jpg`, and so on.
-3. Run the resize script on the folder before committing:
+1. photograph every page, in order.
+2. name them `ps1-01.jpg`, `ps1-02.jpg` and so on.
+3. run the resize script before committing:
    ```
    ..\..\tools\resize-notebook-photos.ps1 -Source "C:\Users\HP\Pictures\ps1" -Dest .\
    ```
-4. Write `ps1-notes.md` next to the images: what it covered, what you got wrong, what you'd do differently.
-5. Move anything that actually tripped you up into [`../../error-log.md`](../../error-log.md).
-6. Commit.
+4. write `ps1-notes.md` next to the images. what it covered, what i got wrong, what id do differently.
+5. move anything that actually tripped me up into [`../../error-log.md`](../../error-log.md).
+6. commit.
 
-## What to leave in the photos
+## what to leave in the photos
 
-Everything. Crossed out work, wrong answers, margin notes, the lot. That's the evidence, and it's the part nobody can fake. Redact your name or anything personal if it's visible in the margins.
+everything. crossed out work, wrong answers, scribbles in the margin. thats the evidence, and its the part nobody can fake. cover my name if its visible anywhere.
 
-## ps1-notes.md
+## what ps1-notes.md looks like
 
-Four or five lines is plenty:
+four or five lines is plenty:
 
 ```markdown
-# PS1, Unit 1A
+# ps1, unit 1a
 
-Done 2026-09-24, about 2h. Covers the limit definition of the derivative and
+done 2026-09-24, about 2h. covers the limit definition of the derivative and
 the basic differentiation rules.
 
-Wrong on 4, the one where you need the limit definition and I went straight to
-the quotient rule. Got 11 and 14 right but by guessing the setup, not by
-knowing why. If I do this again: do the definition by hand at least once per
-problem type so the rules stop feeling arbitrary.
+got 4 wrong, the one where you have to use the limit definition and i went
+straight to the quotient rule. 11 and 14 came out right but i was guessing the
+setup not knowing why. next time do the definition by hand once per problem
+type so the rules stop feeling arbitrary.
 ```

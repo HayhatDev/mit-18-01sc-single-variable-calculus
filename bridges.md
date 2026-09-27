@@ -1,28 +1,19 @@
-# Bridges: 18.01 → 18.02
+# bridges, 18.01 into 18.02
 
-Two lines per concept, written *while* I'm still in 18.01, so that 18.02 starts
-as a generalization rather than a pile of unrelated definitions.
+two lines per concept, written while im still in 18.01, so that 18.02 starts as a generalization instead of a pile of unrelated definitions.
 
-Cheap to write, and it's the difference between "I took two calculus courses"
-and "I can see how the second one generalizes the first."
+cheap to write, and its the difference between "i took two calculus courses" and "i can see how the second one generalizes the first".
 
-**Columns:** the 1D idea I just learned → what it becomes in several variables
-→ the thing that's *new* (the part with no 1D analogue, i.e. the actual
-conceptual jump).
+**columns:** the 1d thing i just learned, what it becomes in several variables, and whats actually new (the part with no 1d version, which is the real conceptual jump).
 
 ---
 
-| 18.01 concept | 18.02 generalization | What's genuinely new |
+| 18.01 concept | 18.02 generalization | whats genuinely new |
 |---|---|---|
-| derivative = limit of a difference quotient | partial derivative, `∂f/∂x` | varies one variable, holds the rest fixed |
-| total derivative | differential `df` | the linear map has multiple inputs and outputs |
-| smooth curve in R¹ | smooth surface in R³ | geometry gets 2D; gradient is a vector, not a scalar |
-| single antiderivative | closed vs. path-independent integrals | order of integration can matter, and then doesn't |
-| | line integrals, surface integrals | integrating *over sets*, not intervals |
-| | Green's, Stokes', divergence theorem | the big theorems of the course |
+| derivative as a limit of a difference quotient | partial derivative, `∂f/∂x` | one variable moves, the rest stay fixed |
+| total derivative | the differential `df` | the linear map has more than one input and output |
+| smooth curve in r1 | smooth surface in r3 | the geometry is 2d now, and the gradient is a vector not a number |
+| single antiderivative | closed vs path independent integrals | order of integration can matter, and then it stops mattering |
+| | line integrals, surface integrals | integrating over sets instead of intervals |
+| | greens, stokes, divergence | the big theorems |
 | | | |
-
----
-
-_Fill rows in as you go. Keep a copy of this file as the first commit of the
-18.02 repo._
