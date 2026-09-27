@@ -1,0 +1,28 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor / tooling
+.vscode/
+.idea/
+*.swp
+
+# LaTeX build artifacts (I write derivations in .tex)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.blg
+*.bbl
+
+# scratch: throwaway numeric checks and CAS output
+scratch/
+*.ipynb_checkpoints/
+
+# secrets / env
+.env
+.env.local

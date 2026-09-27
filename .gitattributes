@@ -1,0 +1,15 @@
+# Normalize line endings so the diff history is readable on GitHub for
+# everyone, not just Windows clones.
+* text=auto
+
+*.md    text eol=lf
+*.tex   text eol=lf
+*.py    text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+
+# Binary / generated
+*.pdf       binary
+*.png       binary
+*.jpg       binary
+*.svg       text
