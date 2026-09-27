@@ -1,14 +1,12 @@
 # Notes
 
-One file per topic, written from a **closed notebook** — my own words, my own
-structure. If I can only restate the lecture, I haven't understood it yet.
+One file per topic, written from a closed notebook. My own words, my own structure. If all I can do is restate the lecture, I haven't understood it yet.
 
-Each note follows [`_template.md`](_template.md). Add a row to the index table
-in the top-level `README.md` when you create a file.
+Each note follows [`_template.md`](_template.md). Add a row to the table in the top level README when you make a new file.
 
 ## Naming
 
-`NN-topic-slug.md`, numbered in the order I actually learn them, zero-padded:
+`NN-topic-slug.md`, zero padded, numbered in the order I actually learn things:
 
 ```
 01-limits-and-continuity.md
@@ -16,5 +14,4 @@ in the top-level `README.md` when you create a file.
 03-product-and-chain-rule.md
 ```
 
-Numbering by learning order (not syllabus order) is deliberate — when the gaps
-in the numbering become visible, that's the honest picture of where I am.
+Learning order rather than syllabus order is deliberate. When the gaps show up in the numbering, that's an honest picture of where I am.
